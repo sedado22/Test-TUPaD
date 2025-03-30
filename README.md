@@ -1,2 +1,2 @@
 # Test-TUPaD
-Repostiroio de prueba
+Repositorio de prueba
